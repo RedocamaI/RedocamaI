@@ -2,9 +2,8 @@ Hey, folks!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz
 
 This is Suraj Kumar Barnwal, a CSE undergrad, fresher from BIT Sindri, Dhanbad. I love sharing my ideas on Github.  I have been passionate about Computer Science since I first saw it with my own eyes, in my school's Computer lab about ***10 years ago***. Since then, my life has changed. Now, I love to talk to my PC, in some special kind of language, which we call ***programming language***. When some **cryptic** looking text gives life to software, it's a real thrill for me. Getting stuck for hours and days, maybe even months is a bliss for me accompanied by obvious frustrations. I don't know where this coding journey will lead me, but I do have some plans.
 
-- 👋 I’m Suraj
-- 👀 A Machine learning, Computer vision, and C++ Lover.
 - 🌱 Currently working on C++ and Python projects.
+- 👀 A Machine learning, Computer vision, and C++ Lover.
 - 💞️ I’m looking to collaborate on : C++, Machine learning, and Python projects.
 - ⚡ A Weird thing: I speak Hinglish i.e ```Hindi + English```
 - 📫 How to reach me : 

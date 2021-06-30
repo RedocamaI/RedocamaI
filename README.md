@@ -10,4 +10,15 @@ This is Suraj Kumar Barnwal, a CSE undergrad, fresher from BIT Sindri, Dhanbad. 
     
   [![Linkedin Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=2867b2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-barnwal-48a306203/) [![Facebook Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=4267B2&logo=facebook&logoColor=white)](https://www.facebook.com/suraj.kumarbarnwal.108/) [![Instagram badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=fccc63&logo=instagram&logoColor=white)](https://www.instagram.com/redocmi/) [![Reddit Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=red&logo=reddit&logoColor=white)](https://www.reddit.com/user/Redocmi)
 
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Redocamai&show_icons=true&theme=tokyonight)

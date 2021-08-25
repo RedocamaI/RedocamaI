@@ -17,5 +17,3 @@ This is Suraj Kumar Barnwal, a CSE undergrad, fresher from BIT Sindri, Dhanbad. 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Redocamai&count_private=true&show_icons=true&include_all_commits=true)

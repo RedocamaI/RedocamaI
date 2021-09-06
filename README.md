@@ -1,6 +1,6 @@
 Hey, folks!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Suraj, a 21-year-old guy, a coder by heart. I love sitting with my PC, exploring various tech fields, reading books, and talking to myself. Thinking about different algorithms that I can use to optimize my code has been my daily habit. For the past 10 years, I have been passionate about coding when I first saw a computer with my own eyes in my school. Since then, I have enjoyed coding. Now I work in a coding club at my college, where I have contributed to some cool projects like a password generator. I know the intermediate level of C++ that I learned by building the above project. So, I learn from my mistakes and new ventures that I explore, which is my strength. I believe in exploring the fields of my interests, which are C/C++, Linux system programming, open-source contribution. I am currently working on an Algorithm visualizer using C++ and Qt, and also learning the basics of Linux system programming, I am also a competitive programmer on codeforces and leetcode.
+I am Suraj, a coder by heart.
 
 - 🌱 Currently working on C++ projects, and problem solving skills on codeforces.
 - 👀 A Linux, and C++ Lover.

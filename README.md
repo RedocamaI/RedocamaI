@@ -1,5 +1,4 @@
-Hey, folks!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+Hey, folks!
 I am Suraj, a coder by heart.
 
 - 🌱 Currently working on Machine Learning projects, and problem solving skills on codeforces.

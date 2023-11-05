@@ -1,13 +1,13 @@
 Hey, folks!
 I am Suraj, a coder by heart.
 
-- 🌱 Currently working on Machine Learning projects, and problem solving skills on codeforces.
+- 🌱 Currently working on Machine Learning projects, and problem-solving skills on codeforces.
 - 👀 A Linux, Python, Machine Learning and C++ Lover.
-- 💞️ I’m looking to collaborate on :  Machine Learning projects.
+- 💞️ I’m looking to collaborate on Machine Learning projects.
 - ⚡ A Weird thing: I speak **Hinglish** i.e ```Hindi + English```
 - 📫 How to reach me : 
     
-  [![Linkedin Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=2867b2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-barnwal-48a306203/) [![Kaggle badge](https://img.shields.io/badge/kaggle-Suraj-blue)](https://www.kaggle.com/redocmi) [![Leetcode Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=yellow&logo=leetcode&logoColor=white)](https://leetcode.com/redoca/) [![Codeforces Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=purple&logo=codeforces&logoColor=white)](https://codeforces.com/profile/surajbarnwal24)
+  [![Linkedin Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=2867b2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-barnwal-48a306203/) [![Kaggle badge](https://img.shields.io/badge/kaggle-Suraj-blue)](https://www.kaggle.com/redocmi) [![Leetcode Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=yellow&logo=leetcode&logoColor=white)](https://leetcode.com/redocmi7/)
 
 ## ⚡ Technologies
 

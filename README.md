@@ -1,19 +1,24 @@
-Hey, folks!
-I am Suraj, a coder by heart.
+Hey, folks! 👋
 
-- 🌱 Currently working on Machine Learning projects, and problem-solving skills on codeforces.
-- 👀 A Linux, Python, Machine Learning and C++ Lover.
-- 💞️ I’m looking to collaborate on Machine Learning projects.
-- ⚡ A Weird thing: I speak **Hinglish** i.e ```Hindi + English```
-- 📫 How to reach me : 
+I am Suraj, a Software Engineer focused on building robust, scalable enterprise solutions.
+
+- 🏢 Currently working as a Software Engineer at GlobalLogic, developing full-stack microservice ecosystems.
+- Currently architecting a scalable Ticket Booking System using Spring Boot Microservices, Spring Cloud, and PostgreSQL to handle high-concurrency reservations.
+- Passionate about System design, scaling architectures to support high traffic.
+- I work mostly in Java, Spring Boot, Angular, and event-driven architectures utilizing Apache Kafka.
+- 📖 Currently reading: **System Design Interview** by Alex Xu.
+- 💡 Fun fact: My username **RedocamaI** read in reverse is *I am a codeR!*
+- 📫 How to reach me: 
     
-  [![Linkedin Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=2867b2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-barnwal-48a306203/) [![Kaggle badge](https://img.shields.io/badge/kaggle-Suraj-blue)](https://www.kaggle.com/redocmi) [![Leetcode Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=yellow&logo=leetcode&logoColor=white)](https://leetcode.com/redocmi7/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=2867b2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-barnwal-48a306203/) [![Leetcode Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=yellow&logo=leetcode&logoColor=white)](https://leetcode.com/redocmi7/)
 
 ## ⚡ Technologies
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=Python)
-![Linux](https://img.shields.io/badge/-Linux-02309C?style=flat-square&logo=linux)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)

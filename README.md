@@ -2,12 +2,12 @@ Hey, folks! 👋
 
 I am Suraj, a Software Engineer focused on building robust, scalable enterprise solutions.
 
-- 🏢 Currently working as a Software Engineer at GlobalLogic, developing full-stack microservice ecosystems.
-- Currently architecting a scalable Ticket Booking System using Spring Boot Microservices, Spring Cloud, and PostgreSQL to handle high-concurrency reservations.
-- Passionate about System design, scaling architectures to support high traffic.
-- I work mostly in Java, Spring Boot, Angular, and event-driven architectures utilizing Apache Kafka.
-- 📖 Currently reading: **System Design Interview** by Alex Xu.
-- 💡 Fun fact: My username **RedocamaI** read in reverse is *I am a codeR!*
+- 🏢 Working as a Software Engineer at GlobalLogic, developing full-stack microservice ecosystems.
+- Architecting a scalable Ticket Booking System using Spring Boot Microservices, Spring Cloud, and PostgreSQL to handle high-concurrency reservations.
+- Passionate about system design and scaling architectures to support high traffic.
+- I work mostly with Java, Spring Boot, Angular, and event-driven architectures utilizing Apache Kafka.
+- 📖 Reading: **System Design Interview** by Alex Xu.
+- 💡 Fun fact: My username **RedocamaI** read in reverse is *I am a codeR* !
 - 📫 How to reach me: 
     
   [![Linkedin Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=2867b2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-barnwal-48a306203/) [![Leetcode Badge](https://img.shields.io/badge/-Suraj-cacbf6?style=flat&labelColor=yellow&logo=leetcode&logoColor=white)](https://leetcode.com/redocmi7/)
